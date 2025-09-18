@@ -12,13 +12,13 @@ tags: [synapse, epsp]     # TAG names should always be lowercase
         <td>Soma size</td>
         <td>Dendrite length</td>
         <td>Dendrite diameter</td>
-        <td>Plot</td>
-        </td>
     </tr>
     <tr>
         <td>21.5 µm</td>
         <td>200 µm</td>
         <td>1.5 µm</td>
+    </tr>
+    <tr>
         <td>
             <iframe src="/golding/assets/html/tstellate/epsp/tstellate_EPSP_filter_215_200.html" width="400" height="300" style="border:none;"></iframe>
         </td>
@@ -27,46 +27,58 @@ tags: [synapse, epsp]     # TAG names should always be lowercase
         <td>5 µm</td>
         <td>200 µm</td>
         <td>1.5 µm</td>
+    </tr>
+    <tr>
         <td>
             <iframe src="/golding/assets/html/tstellate/epsp/tstellate_EPSP_filter_5_200.html" width="400" height="300" style="border:none;"></iframe>
         </td>
     </tr>
-        <tr>
+    <tr>
         <td>33 µm</td>
         <td>200 µm</td>
         <td>1.5 µm</td>
+    </tr>
+    <tr>
         <td>
             <iframe src="/golding/assets/html/tstellate/epsp/tstellate_EPSP_filter_33_200.html" width="400" height="300" style="border:none;"></iframe>
         </td>
     </tr>
-        <tr>
+    <tr>
         <td>21.5 µm</td>
         <td>150 µm</td>
         <td>1.5 µm</td>
+    </tr>
+    <tr>
         <td>
             <iframe src="/golding/assets/html/tstellate/epsp/tstellate_EPSP_filter_215_150.html" width="400" height="300" style="border:none;"></iframe>
         </td>
     </tr>
-        <tr>
+    <tr>
         <td>21.5 µm</td>
         <td>300 µm</td>
         <td>1.5 µm</td>
+    </tr>
+    <tr>
         <td>
             <iframe src="/golding/assets/html/tstellate/epsp/tstellate_EPSP_filter_215_300.html" width="400" height="300" style="border:none;"></iframe>
         </td>
     </tr>
-        <tr>
+    <tr>
         <td>21.5 µm</td>
         <td>200 µm</td>
         <td>0.75 µm</td>
+    </tr>
+    <tr>
         <td>
             <iframe src="/golding/assets/html/tstellate/epsp/tstellate_EPSP_filter_215_200_075.html" width="400" height="300" style="border:none;"></iframe>
         </td>
     </tr>
-        <tr>
+    <tr>
         <td>21.5 µm</td>
         <td>200 µm</td>
         <td>3 µm</td>
+    </tr>
+    <tr>
         <td>
             <iframe src="/golding/assets/html/tstellate/epsp/tstellate_EPSP_filter_215_200_3.html" width="400" height="300" style="border:none;"></iframe>
         </td>
