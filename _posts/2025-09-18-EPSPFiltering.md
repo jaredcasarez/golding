@@ -20,7 +20,7 @@ tags: [synapse, epsp]     # TAG names should always be lowercase
     </tr>
     <tr>
         <td colspan="3">
-            <iframe src="/golding/assets/html/tstellate/epsp/tstellate_EPSP_filter_215_200.html" width="400" height="300" style="border:none;"></iframe>
+            <iframe src="/golding/assets/html/tstellate/epsp/tstellate_EPSP_filter_215_200.html" width="800" height="600" style="border:none;"></iframe>
         </td>
     </tr>
     <tr>
@@ -35,7 +35,7 @@ tags: [synapse, epsp]     # TAG names should always be lowercase
     </tr>
     <tr>
         <td colspan="3">
-            <iframe src="/golding/assets/html/tstellate/epsp/tstellate_EPSP_filter_5_200.html" width="400" height="300" style="border:none;"></iframe>
+            <iframe src="/golding/assets/html/tstellate/epsp/tstellate_EPSP_filter_5_200.html" width="800" height="600" style="border:none;"></iframe>
         </td>
     </tr>
     <tr>
@@ -50,7 +50,7 @@ tags: [synapse, epsp]     # TAG names should always be lowercase
     </tr>
     <tr>
         <td colspan="3">
-            <iframe src="/golding/assets/html/tstellate/epsp/tstellate_EPSP_filter_33_200.html" width="400" height="300" style="border:none;"></iframe>
+            <iframe src="/golding/assets/html/tstellate/epsp/tstellate_EPSP_filter_33_200.html" width="800" height="600" style="border:none;"></iframe>
         </td>
     </tr>
     <tr>
@@ -65,7 +65,7 @@ tags: [synapse, epsp]     # TAG names should always be lowercase
     </tr>
     <tr>
         <td colspan="3">
-            <iframe src="/golding/assets/html/tstellate/epsp/tstellate_EPSP_filter_215_150.html" width="400" height="300" style="border:none;"></iframe>
+            <iframe src="/golding/assets/html/tstellate/epsp/tstellate_EPSP_filter_215_150.html" width="800" height="600" style="border:none;"></iframe>
         </td>
     </tr>
     <tr>
@@ -80,7 +80,7 @@ tags: [synapse, epsp]     # TAG names should always be lowercase
     </tr>
     <tr>
         <td colspan="3">
-            <iframe src="/golding/assets/html/tstellate/epsp/tstellate_EPSP_filter_215_300.html" width="400" height="300" style="border:none;"></iframe>
+            <iframe src="/golding/assets/html/tstellate/epsp/tstellate_EPSP_filter_215_300.html" width="800" height="600" style="border:none;"></iframe>
         </td>
     </tr>
     <tr>
@@ -95,7 +95,7 @@ tags: [synapse, epsp]     # TAG names should always be lowercase
     </tr>
     <tr>
         <td colspan="3">
-            <iframe src="/golding/assets/html/tstellate/epsp/tstellate_EPSP_filter_215_200_075.html" width="400" height="300" style="border:none;"></iframe>
+            <iframe src="/golding/assets/html/tstellate/epsp/tstellate_EPSP_filter_215_200_075.html" width="800" height="600" style="border:none;"></iframe>
         </td>
     </tr>
     <tr>
@@ -110,7 +110,7 @@ tags: [synapse, epsp]     # TAG names should always be lowercase
     </tr>
     <tr>
         <td colspan="3">
-            <iframe src="/golding/assets/html/tstellate/epsp/tstellate_EPSP_filter_215_200_3.html" width="400" height="300" style="border:none;"></iframe>
+            <iframe src="/golding/assets/html/tstellate/epsp/tstellate_EPSP_filter_215_200_3.html" width="800" height="600" style="border:none;"></iframe>
         </td>
     </tr>
 </table>
