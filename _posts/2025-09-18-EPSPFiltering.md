@@ -5,10 +5,10 @@ categories: [VCN, STELLATE]
 tags: [synapse, epsp]     # TAG names should always be lowercase
 ---
 
-# Parameter exploration of TStellate EPSP filtering
+### Parameter exploration of TStellate EPSP filtering
+
 <table>
-<tr>
-<td>
+<tr><td>
 
 | Soma size | Dendrite length | Dendrite diameter |
 | --------- | --------------- | ----------------- |
@@ -18,10 +18,8 @@ tags: [synapse, epsp]     # TAG names should always be lowercase
 
 <iframe src="/golding/assets/html/tstellate/epsp/tstellate_EPSP_filter_215_200.html" width="400" height="300" style="border:none;"></iframe>
 
-</td>
-</tr>
-<tr>
-<td>
+</td></tr>
+<tr><td>
 
 | Soma size | Dendrite length | Dendrite diameter |
 | --------- | --------------- | ----------------- |
@@ -31,10 +29,8 @@ tags: [synapse, epsp]     # TAG names should always be lowercase
 
 <iframe src="/golding/assets/html/tstellate/epsp/tstellate_EPSP_filter_5_200.html" width="400" height="300" style="border:none;"></iframe>
 
-</td>
-</tr>
-<tr>
-<td>
+</td></tr>
+<tr><td>
 
 | Soma size | Dendrite length | Dendrite diameter |
 | --------- | --------------- | ----------------- |
@@ -44,10 +40,8 @@ tags: [synapse, epsp]     # TAG names should always be lowercase
 
 <iframe src="/golding/assets/html/tstellate/epsp/tstellate_EPSP_filter_33_200.html" width="400" height="300" style="border:none;"></iframe>
 
-</td>
-</tr>
-<tr>
-<td>
+</td></tr>
+<tr><td>
 
 | Soma size | Dendrite length | Dendrite diameter |
 | --------- | --------------- | ----------------- |
@@ -57,10 +51,8 @@ tags: [synapse, epsp]     # TAG names should always be lowercase
 
 <iframe src="/golding/assets/html/tstellate/epsp/tstellate_EPSP_filter_215_150.html" width="400" height="300" style="border:none;"></iframe>
 
-</td>
-</tr>
-<tr>
-<td>
+</td></tr>
+<tr><td>
 
 | Soma size | Dendrite length | Dendrite diameter |
 | --------- | --------------- | ----------------- |
@@ -70,10 +62,8 @@ tags: [synapse, epsp]     # TAG names should always be lowercase
 
 <iframe src="/golding/assets/html/tstellate/epsp/tstellate_EPSP_filter_215_300.html" width="400" height="300" style="border:none;"></iframe>
 
-</td>
-</tr>
-<tr>
-<td>
+</td></tr>
+<tr><td>
 
 | Soma size | Dendrite length | Dendrite diameter |
 | --------- | --------------- | ----------------- |
@@ -83,10 +73,8 @@ tags: [synapse, epsp]     # TAG names should always be lowercase
 
 <iframe src="/golding/assets/html/tstellate/epsp/tstellate_EPSP_filter_215_200_3.html" width="400" height="300" style="border:none;"></iframe>
 
-</td>
-</tr>
-<tr>
-<td>
+</td></tr>
+<tr><td>
 
 | Soma size | Dendrite length | Dendrite diameter |
 | --------- | --------------- | ----------------- |
@@ -96,5 +84,6 @@ tags: [synapse, epsp]     # TAG names should always be lowercase
 
 <iframe src="/golding/assets/html/tstellate/epsp/tstellate_EPSP_filter_215_200_075.html" width="400" height="300" style="border:none;"></iframe>
 
-</td>
-</tr>
+</td></tr>
+
+</table>
